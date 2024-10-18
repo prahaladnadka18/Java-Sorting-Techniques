@@ -61,3 +61,20 @@ public class BubbleUpSorting {
 	}
 
 }
+
+/*
+OUTPUT:
+
+Enter the size of the array:
+8
+
+Enter 8 array elements:
+25 38 24 19 85 39 28 56
+
+Before Sorting:
+25 38 24 19 85 39 28 56 
+
+After Sorting:
+19 24 25 28 38 39 56 85
+ 
+ */
